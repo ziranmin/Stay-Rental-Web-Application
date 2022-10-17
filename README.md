@@ -6,6 +6,9 @@ https://github.com/ziranmin/staysbookingfe
 ## Backend Source Code (Java): <br />
 https://github.com/ziranmin/staybooking/tree/master
 
+## Tech Stack
+Java, Spring, Javasctip, React, MySQL, Google Cloud, Elasticsearch
+
 ## Summary 
 •	Developed an online marketplace App for homestay booking with frontend UI designed in **JavaScript** and **React** <br />
 •	Built backend RESTful services with **Java** and **Spring Boot** to achieve stay search, booking, upload functionalities <br />
