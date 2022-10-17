@@ -7,7 +7,7 @@ https://github.com/ziranmin/staysbookingfe
 https://github.com/ziranmin/staybooking/tree/master
 
 ## Tech Stack
-Java, Spring, Javascript, React, MySQL, Google Cloud, Elasticsearch
+Java, Spring Boot, JPA, JWT, JavaScript, React, MySQL, Google Cloud, Elasticsearch
 
 ## Summary 
 •	Developed an online marketplace App for homestay booking with frontend UI designed in **JavaScript** and **React** <br />
