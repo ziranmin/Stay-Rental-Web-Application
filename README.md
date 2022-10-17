@@ -1,14 +1,12 @@
 # Stay-Rental-Web-Application
 
-Frontend Source Code:
-
+## Frontend Source Code: <br />
 https://github.com/ziranmin/staysbookingfe
-
-Backend Source Code:
-
+ 
+## Backend Source Code: <br />
 https://github.com/ziranmin/staybooking/tree/master
 
-
+## Summary 
 •	Developed an online marketplace App for homestay booking with frontend UI designed in JavaScript and React <br />
 •	Built backend RESTful services with Java and Spring Boot to achieve stay search, booking, upload functionalities <br />
 •	Stored stay pictures and videos in Google Cloud Storage, and user and reservation data in a MySQL database <br />
